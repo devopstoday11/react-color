@@ -2,7 +2,7 @@
 
 import React from 'react';
 import ReactCSS from 'reactcss';
-import throttle from 'lodash/function/throttle';
+import throttle from 'lodash/functn/throttle';
 
 export class Saturation extends ReactCSS.Component {
 
